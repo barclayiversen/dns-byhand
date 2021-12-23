@@ -8,7 +8,7 @@ public_folder: "uploads"
 collections:
   - name: "events"
     label: "Events"
-    folder: "content/coding"
+    folder: "content/events"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: 
